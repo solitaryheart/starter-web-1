@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Matthias Meier matthias.meier@kps.com
 
 # THANKS
 
